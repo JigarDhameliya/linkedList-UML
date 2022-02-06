@@ -3,6 +3,9 @@ In this repo. I have a program that uses a Linked list data structure to make a 
 
 In this Program I have written a (vastly simplified) inventory system for a store / warehouse (like Ikea or
 Costco) using C++.
+
+It also contains a UML diagram for the same.
+
 This store will sell a number of Products. Each product has a StoreLocation. These locations are in the main
 store area where shoppers shop. Each product may have zero or more overstock locations in the warehouse. These
 are stored on skids (Figure 1) of all the same Product wrapped in plastic. We will call these WHLocations (warehouse
